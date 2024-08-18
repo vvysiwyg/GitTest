@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("Hello, World!");
-var test1 = "qwerty";
+var test = 1;
